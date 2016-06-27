@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F88A2CE91BBCA9530054B854 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F88A2CE81BBCA9530054B854 /* main.cpp */; };
+		F88A2CE91BBCA9530054B854 /* hw1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F88A2CE81BBCA9530054B854 /* hw1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		F88A2CE51BBCA9530054B854 /* hw1.cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hw1.cpp; sourceTree = BUILT_PRODUCTS_DIR; };
-		F88A2CE81BBCA9530054B854 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F88A2CE81BBCA9530054B854 /* hw1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hw1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		F88A2CE71BBCA9530054B854 /* hw1.cpp */ = {
 			isa = PBXGroup;
 			children = (
-				F88A2CE81BBCA9530054B854 /* main.cpp */,
+				F88A2CE81BBCA9530054B854 /* hw1.cpp */,
 			);
 			path = hw1.cpp;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F88A2CE91BBCA9530054B854 /* main.cpp in Sources */,
+				F88A2CE91BBCA9530054B854 /* hw1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -235,6 +235,7 @@
 				F88A2CEE1BBCA9530054B854 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
